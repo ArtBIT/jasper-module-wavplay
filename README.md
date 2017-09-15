@@ -1,7 +1,7 @@
 # Jasper-Module-WavPlay
+Upon trigger, it plays a random wav file from a pre-configured directory.
 
 Jasper WavPlay Module for my [HAL9000 Raspberry PI Instructable](http://www.instructables.com/id/RaspberryPI-HAL9000/)
-Upon trigger, it plays a random wav file from a pre-configured directory.
 
 ## Steps to install WavPlay Module
 
